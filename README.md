@@ -138,6 +138,11 @@ Linkedlist
 |29.|[ Clone a linked list with random pointers]()|[Link](GFG/Linkedlist/29.%20Clone%20a%20linked%20list%20with%20random%20pointers.py)|
 |30.|[ Add 1 to a number represented as linked list]()|[Link](GFG/Linkedlist/30.%20Add%201%20to%20a%20number%20represented%20as%20linked%20list.py)|
 |31.|[ Add two numbers represented as linked list]()|[Link](GFG/Linkedlist/31.%20Add%20two%20numbers%20represented%20as%20linked%20list.py)|
+|32.|[ Multiply two linked lists]()|[Link](GFG/Linkedlist/32.%20Multiply%20two%20linked%20lists.py)|
+|33.|[ Merge two sorted linked lists]()|[Link](GFG/Linkedlist/33.%20Merge%20two%20sorted%20linked%20lists.py)|
+|34.|[ Merge Sort on Linked List]()|[Link](GFG/Linkedlist/34.%20Merge%20Sort%20on%20Linked%20List.py)|
+|35.|[ Intersection of Two Linked Lists]()|[Link](GFG/Linkedlist/35.%20Intersection%20of%20Two%20Linked%20Lists.py)|
+|36.|[ Union of Two Linked Lists]()|[Link](GFG/Linkedlist/36.%20Union%20of%20Two%20Linked%20Lists.py)|
 
 <h1 id="Doublyll">Doubly and Circular LinkedLists</h1>
 
