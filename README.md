@@ -28,7 +28,7 @@ Following topic wise questions from [(Practice for cracking any coding interview
    * [Heap](#Heap)
    * [Graph](#Graph)
    * [Greedy Algorithms](#GreedyAlgorithms)
-   * [Dynamic Programming](#DynamicProgramming)
+   * [Dynamic Programming](#Dynamic Programming)
    * [Backtracking](#Backtracking)
    * [Trie](#Trie)
    * [Misc Topics](#MiscTopics)
