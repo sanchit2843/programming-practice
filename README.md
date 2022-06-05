@@ -5,8 +5,8 @@ Python solutions for geeks for geeks and leetcode questions.
 # Geeks For Geeks
 Following topic wise questions from [(Practice for cracking any coding interview)](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
 
-- [] Write python script to parse html file and create a csv file with all links to problems
-- [] Add this csv in parser and add this link in string
+- [ ] Write python script to parse html file and create a csv file with all links to problems
+- [ ] Add this csv in parser and add this link in string
 ## Topics
 
 <!--ts-->
