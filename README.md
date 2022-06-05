@@ -10,6 +10,7 @@ Following topic wise questions from [(Practice for cracking any coding interview
 <!--ts-->
    * [Mathematical](#Mathematical)
    * [Puzzles](#Puzzles)
+   * [Arrays](#Arrays)
    * [String](#String)
    * [Searching](#Searching)
    * [Sorting](#Sorting)
@@ -18,16 +19,16 @@ Following topic wise questions from [(Practice for cracking any coding interview
    * [Recursion](#Recursion)
    * [Divide & conquer](#Divide&conquer)
    * [Linkedlist](#Linkedlist)
-   * [Doubly and circular linked lists](#DoublyandCircularLinkedLists)
+   * [Doubly and circular linked lists](#Doublyll)
    * [Stack](#Stack)
    * [Queue](#Queue)
-   * [Prefix Sum and Sliding Window](#PrefixSumandSlidingWindow)
+   * [Prefix Sum and Sliding Window](#prefix)
    * [Bit Magic](#BitMagic)
    * [Tree](#Tree)
-   * [Binary Search Tree](#BinarySearchTree)
+   * [Binary Search Tree](#bst)
    * [Heap](#Heap)
    * [Graph](#Graph)
-   * [Greedy Algorithms](#GreedyAlgorithms)
+   * [Greedy Algorithms](#Greedy)
    * [Dynamic Programming](#Dynamic-Programming)
    * [Backtracking](#Backtracking)
    * [Trie](#Trie)
@@ -36,18 +37,40 @@ Following topic wise questions from [(Practice for cracking any coding interview
 
 Mathematical
 ============
+|Index|Question|Solution|
+|------|---------------------------|--------|
+|1.|[Print the pattern](https://practice.geeksforgeeks.org/problems/print-the-pattern-set-1/1)|[Link]()|
+
 
 Puzzles
 ============
+|Index|Question|Solution|
+|------|---------------------------|--------|
+|1.|[Count Squares](https://practice.geeksforgeeks.org/problems/count-squares3649/1)|[Link]()|
+
+Arrays
+============
+|Index|Question|Solution|
+|------|---------------------------|--------|
+|1.|[Array operations (Search, insert, delete)](https://practice.geeksforgeeks.org/problems/operating-an-array/1)|[Link]()|
 
 String
 ============
+|Index|Question|Solution|
+|------|---------------------------|--------|
+|1.|[Check for palindrome](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)|[Link]()|
 
 Searching
 ============
+|Index|Question|Solution|
+|------|---------------------------|--------|
+|1.|[Linear Search](https://practice.geeksforgeeks.org/problems/searching-a-number0324/1)|[Link]()|
 
 Sorting
 ============
+|Index|Question|Solution|
+|------|---------------------------|--------|
+|1.|[Check if array is sorted ](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1)|[Link]()|
 
 Hashing
 ============
@@ -64,8 +87,8 @@ Divide&conquer
 Linkedlist
 ============
 
-DoublyandCircularLinkedLists
-============
+<h1 id="Doublyll">Doubly and Circular LinkedLists</h1>
+
 
 Stack
 ============
@@ -73,8 +96,7 @@ Stack
 Queue
 ============
 
-PrefixSumandSlidingWindow
-============
+<h1 id="prefix">  Prefix sum and sliding window</h1>
 
 Bitmagic
 ============
@@ -82,8 +104,7 @@ Bitmagic
 Tree
 ============
 
-Binarysearchtree
-============
+<h1 id="bst">  Binary search tree</h1>
 
 Heap
 ============
@@ -91,10 +112,9 @@ Heap
 Graph
 ============
 
-Greedyalgorithms
-============
+<h1 id="Greedy">  Greedy algorithms</h1>
 
-<h2 id="Dynamic-programming">  Dynamic programming</h2>
+<h1 id="Dynamic-programming">  Dynamic programming</h1>
 
 Backtracking
 ============
